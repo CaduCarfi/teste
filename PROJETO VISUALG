@@ -1,6 +1,7 @@
 Algoritmo "teste_dias_se_senao"
 
 Var
+        
          x : inteiro
          dia : caractere
 

@@ -1,12 +1,12 @@
 Algoritmo "teste_dias_se_senao"
 
-Var
+Var:
         
          x : inteiro
          dia : caractere
 
 
-Inicio
+Inicio:
          leia(x)
          
          se x = 1 entao
